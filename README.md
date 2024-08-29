@@ -1,2 +1,2 @@
 # krishi_samadhan
-Group project for innovathon , bundelkhand university
+Group project for innovathon , bundelkhand university 2024
